@@ -14,7 +14,7 @@ public class Employee {
     	age = empAge;
     }
     
-    public void epmDesignation(String empDesig) {
+    public void empDesignation(String empDesig) {
     	designation = empDesig;
     }
     
